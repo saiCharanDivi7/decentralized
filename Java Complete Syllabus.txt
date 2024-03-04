@@ -1,0 +1,199 @@
+Java Fundamentals:-
+Introduction to Java
+How Java Made Portable(WORA)
+Main method
+Statically vs Dynamically typed
+Variables and Datatypes
+Type Casting and Truncation
+Identifiers and Naming Convention
+Operators
+Increment and Decrement
+Conditional statement
+Loops
+Scanner class (console user input)
+
+Object-oriented programming (OOPs):-
+Classes and Object
+JVM data areas
+Instance variable vs local variables
+Method overloading
+Wrapper classes
+Encapsulation
+This keyword
+Constructor
+Static keyword Introduction
+Class loading
+Inheritance
+Package and Access modifiers
+Polymorphism
+Abstraction and abstract keyword
+Final keyword
+
+Array:-
+Why an array?
+Creating An Array
+Different ways to create an array
+2D Regular Array
+2D Jagged Array
+Enhanced For Loop
+Anonymous Array
+ArraylndexOutOfBoundsException
+Disadvantages of Array
+
+Strings :-
+String Introduction
+Types of String
+Immutable String and Memory Map
+Ways to compare
+String Concatenation
+Inbuilt methods in String class
+Introduction to Mutable String
+Final vs Immutability
+More on Mutable String
+StringBuffer vs StringBuilder
+Interface and Lambda Expression:-
+What is interface?
+Interface Implementation
+Need Of Interface With Example
+Important key points of Interface
+Abstract Vs Interface
+Java 8 Features
+Functional Interface
+Inner class
+Anonymous inner class
+Lambda Expression
+
+Exception Handling:-
+Different types of Errors
+What is an Exception?
+try catch
+Multiple catch block
+Handling vs Ducking an Exception
+throw, throws, finally
+Custom Exception
+Hierarchy of an Exception class
+try with Resources
+
+
+Multithreading:-
+Thread
+Need of Multiple Threads
+Main Thread in Java
+How to create Threads
+More on creating Multiple Threads
+Thread vs Runnable
+States of Thread
+join() and isAlive() methods
+interrupt() method
+Synchronisation in Java
+Dead lock
+Producer - Consumer problem
+
+
+Collection :-
+Why Collection ?
+Collection Hierarchy
+ArrayList
+LinkedList
+ArrayDeque
+PriorityQueue
+TreeSet
+HashSet
+LinkedHashSet
+Iterator , List Iterator
+Legacy classes and Enumeration
+Introduction to Map in Java
+Map Hierarchy
+HashMap
+
+
+File Handling:-
+Input Stream
+Output Stream
+File Operation
+Serialisation
+Deserialisation
+
+
+Collection :-
+Why Collection ?
+Collection Hierarchy
+ArrayList
+LinkedList
+ArrayDeque
+PriorityQueue
+TreeSet
+HashSet
+LinkedHashSet
+Iterator , List Iterator
+Legacy classes and Enumeration
+Introduction to Map in Java
+Map Hierarchy
+HashMap
+
+File Handling:-
+Input Stream
+Output Stream
+File Operation
+Serialisation
+Deserialisation
+
+
+Spring Core and Spring Boot:-
+What is Spring Framework
+What is Spring Boot
+Differences between Spring & Spring Boot
+IOC container
+Dependency Injection
+Stereotype Annotations
+Spring Boot Overview
+Pros & Cons of Spring Boot
+Approaches to create Spring Boot Application
+Application with Spring Boot
+
+Spring DataJPA:-
+Spring Data JPA Introduction
+Differences between Spring ORM and Spring Data JPA
+Working with CurdRepository
+Working with PagingAndRepository
+Working with JpaRepository
+
+
+Spring Web MVC:-
+Spring Web MVC Introduction
+Spring MVC Architecture
+Introduction to Front Controller(DispatcherServlet)
+Handler Mappers
+Controllers
+View Resolvers
+Web Application development using Spring Boot
+Sending Data From Ul to Controller
+Sending Data From Controller to Ul
+Spring MVC Form Tag library
+Form Based application development using Spring Boot
+
+spring REST:-
+Spring Rest
+Usage of xml and Json in Rest
+Need of JAX-RS API
+Introduction to SpringRest and its annotations
+Usage of Postman tool to test the API
+Usage of Swagger api
+Usage of RestTemplate and RestClient
+Usage of RequestParam and PathVariable
+
+Microservices:-
+Usage of Monolothic vs Microservices architecture
+Microservice Architecuture
+Challenges of Microservices
+FeignClient
+Integration of mulitple microservices
+Springcloud configuration,HystricCircuit breaker
+Load balancer at client side using RibbonClient
+Distrubuted logging using sluth and zipkin server
+Working with RedisCache
+SpringBoot Message Broker(Apache Kafka)
+
+Recorded courses included
+DSA, JUnit, SQL, Git, Docker, Cloud
+
